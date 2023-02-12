@@ -1,3 +1,4 @@
+import './Categories.css';
 function CategoryItem({ category: { description, imageSrc } }) {
   return (
     <li>

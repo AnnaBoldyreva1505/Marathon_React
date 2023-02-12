@@ -1,3 +1,4 @@
+import './SideMenu.css';
 function SideMenu() {
   return (
     <nav className="sideNavContainer">
